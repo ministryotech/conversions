@@ -6,7 +6,7 @@ A selection of extension methods to provide easy conversion between some of the 
 - **String.ToBoolean** - Converts any valid string to a representative boolean value. The conversion is case insensitive and will take either 1 / 0 / -1, Yes / No, True / False or Y / N as valid input strings.
 
 ## Upgrading to v2
-v2 No longer supports ,net Standard and .net Framework
+v2 No longer supports .net Standard and .net Framework
 
 ## The Ministry of Technology Open Source Products
 Welcome to The Ministry of Technology open source products. All open source Ministry of Technology products are distributed under the MIT License for maximum re-usability.
